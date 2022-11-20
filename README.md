@@ -1,5 +1,5 @@
 # Appium-project
-#appium #application #automation #AndroidDriver #sendKeys #MobileCapabilityType
+#appium #application #automation #AndroidDriver #sendKeys #MobileCapabilityType #uiautomatorviewer
 
 •	Get java jdk 8 
 •	Install java jdk 
